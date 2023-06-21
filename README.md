@@ -9,6 +9,7 @@ Also i'm well-versed in testing methodologies like Jest, Vitest, and Testing Lib
   <a href="https://www.linkedin.com/in/carlos-aliaga-g%C3%B3mez/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
    Or carlosaligom@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -1,3 +1,5 @@
+<div id="header" align="center">
+  
 ### Welcome to my GitHub profile! 👋
 
 ### :man_technologist: About Me :
@@ -30,3 +32,4 @@ Also i'm well-versed in testing methodologies like Jest, Vitest, and Testing Lib
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarlosAliGom&theme=dark)](https://git.io/streak-stats)
+</div>

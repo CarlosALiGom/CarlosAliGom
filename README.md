@@ -1,10 +1,15 @@
 ### Welcome to my GitHub profile! 👋
 
 ### :man_technologist: About Me :
-##I'm Carlos, a Full-Stack Web Developer from Barcelona, passionate about science and technology with a strong background in electronics.
+I'm Carlos, a Full-Stack Web Developer from Barcelona, passionate about science and technology with a strong background in electronics.
+In my web development journey, I've honed my skills in TypeScript, React, Redux, Node.js, and Express, leveraging the power of these technologies to create responsive and intuitive user interfaces. 
+Also i'm well-versed in testing methodologies like Jest, Vitest, and Testing Library, ensuring robust and bug-free applications.
 
 ### :mailbox:How to reach me:
-   [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg))](https://www.linkedin.com/in/carlos-aliaga-g%C3%B3mez-297b48278/)
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/carlos-aliaga-g%C3%B3mez-297b48278/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   Or carlosaligom@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

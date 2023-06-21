@@ -7,12 +7,16 @@ I'm Carlos, a Full-Stack Web Developer from Barcelona, passionate about science 
 In my web development journey, I've honed my skills in TypeScript, React, Redux, Node.js, and Express, leveraging the power of these technologies to create responsive and intuitive user interfaces. 
 Also i'm well-versed in testing methodologies like Jest, Vitest, and Testing Library, ensuring robust and bug-free applications.
 
+---
+
 ### :mailbox:How to reach me:
   <a href="https://www.linkedin.com/in/carlos-aliaga-g%C3%B3mez/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
    Or carlosaligom@gmail.com
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -29,6 +33,8 @@ Also i'm well-versed in testing methodologies like Jest, Vitest, and Testing Lib
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarlosAliGom&theme=dark)](https://git.io/streak-stats)
